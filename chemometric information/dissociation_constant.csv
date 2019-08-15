@@ -1,0 +1,5 @@
+KDs,KAs,Subject,Relationship,Object,Reference,Description
+lower than 1 * 10^ -13 M,,Hemopexin,decreases,Hemin,pmid:30281034,Hpx is by far the most efficient with a dissociation constant (Kd) lower than 1 x 10–13 M
+1 * 10^ -24 M,1 * 10^24 M–,Transferrin,decreases,Iron,pmid:30281034,Each mole of Tf has a molecular weight of 79.5 kDa and a remarkably high binding affinity for iron that approximates a Ka = 1 * 10^24 M– .
+1 * 10^ -12 M,,Haptoglobins,decreases,"hemoglobin, stroma free",pmid:30281034,putative scavenger of cell-free Hb with a high affinity (KD=10–12M) for Hb dimers
+9.17 *10^ -6 M,,p(MGI:Hrg),decreases, path(MESH:Hemolysis),pmid:29544683,The calorimeter experiment showed that HRG binds hemin at ratio of 1:36

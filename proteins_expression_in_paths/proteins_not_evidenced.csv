@@ -1,0 +1,48 @@
+﻿Protein ID,Protein name,PubMed
+HIF1A,hypoxia-inducible factor 1 alpha,29351418
+HRG,histidine rich glycoprotein,29544683
+HSPA1A,Heat Shock Protein Family A (Hsp70) Member 1A,26794659
+HSPA1B,Heat Shock Protein Family A (Hsp70) Member 1B,26794659
+HSPA4,Heat Shock Protein Family A (Hsp70) Member 4,26794659
+HSPA5,Heat Shock Protein Family A (Hsp70) Member 5,26794659
+HSPE1,Heat Shock Protein Family E (Hsp10) Member 1,26794659
+HSPH1,Heat Shock Protein Family H (Hsp110) Member 1,26794659
+IL10,interleukin 10,26675351
+ITGB3,Integrin Subunit Beta 3,28458720
+MRC1 (CD206),"mannose receptor, C type",26675351
+MYH9,Myosin Heavy Chain 9,28458720
+NLRP3,"NACHT, LRR and PYD domains-containing protein 3","24464629, 29404418, 26875449, 30248094"
+NR1H2,liver X receptor beta,24904418
+PRDX2,peroxiredoxin,"23215741, 26202471"
+PRTN3,myeloblastin ,28716864
+ROCK1,Rho-associated protein kinase 1,25307023
+SELL (CD62L),"selectin, lymphocyte",29610666
+SIRPA  (CD172),signal-regulatory protein alpha,27125525
+SLC48A1 (HRG1),"solute carrier family 48 (heme transporter), member 1",30248094
+SYK,spleen tyrosine kinase,24904418
+TF,transferrin,30281034
+TFRC,transferrin receptor,26794659
+VIM,vimentin,28716864
+XBP1,X box-binding protein 1,26794659
+ADAMTS13,a disintegrin and metalloproteinase with thrombospondin motifs 13,"25307023, 29929138"
+ALAD,Aminolevulinate Dehydratase,25411909
+ANXA5,annexin A5,29544683
+ARG1,arginase,"26337933, 2665351"
+BACH1,BTB Domain And CNC Homolog 1,27515135
+CASP1,caspase 1,24464629
+CD14,monocyte differentiation antigen CD14,"26675351, 29610666"
+CD40LG,tumor necrosis factor ligand superfamily member 5,25307023
+CDH5,Cadherin 5,29929138
+DNAJB1,DnaJ Heat Shock Protein Family (Hsp40) Member B1,26794659
+EIF2AK1,eukaryotic translation initiation factor 2 alpha kinase 1,25411909
+ELANE,"Elastase, Neutrophil Expressed",28716864
+ENG (CD105),endoglin,29929138
+EPO,erythropoietin,"28458720, 29351418"
+FLT1,FMS-like tyrosine kinase 1,24489717
+FTH1,Ferritin Heavy Chain 1,"24904418, 26794659"
+FTL,Ferritin Light Chain,"26675351, 26794659"
+HAMP,hepcidin,"28143953, 30248094"
+CFB,complement factor B,26875449
+CFH,complement factor H,26875449
+CFD,complement factor D,26875449
+CD163,CD163 molecule,"25307023, 24486321, 26368565, 26794659, 27125525, 28143953, 28314763, 29956069"
