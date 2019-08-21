@@ -1,6 +1,7 @@
 Notebooks
 =========
 
+- `Enrichment analysis <https://github.com/hememap/analysis/blob/master/notebooks/enrichment_analysis.ipynb>`_. Enrichment analysis using KEGG, Reactome and WikiPathways.
 - `Citation analysis <https://github.com/hememap/analysis/blob/master/notebooks/citation_analysis.ipynb>`_. Analysis of the research publications included in HemeMap.
 - `Graph summary <https://github.com/hememap/analysis/blob/master/notebooks/graph_summary.ipynb>`_. Summary of HemeMap.
 - `HemeMap DataFrame <https://github.com/hememap/analysis/blob/master/notebooks/hememap_dataframe.ipynb>`_. Summary of individual review papers and research articles comprising HemeMap.
