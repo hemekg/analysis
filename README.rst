@@ -1,5 +1,5 @@
 Analysis
 ========
 
-This repository contains analyses conducted on HemeMap.
+This repository contains analyses conducted on HemeKG.
 
